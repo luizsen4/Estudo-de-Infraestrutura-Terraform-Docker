@@ -12,9 +12,9 @@ Automatizar a criação de um ambiente local/servidor utilizando **Terraform** p
 
 ## 🧰 Tecnologias Utilizadas
 
-* **[Terraform](https://www.terraform.io/)** — Para automação e criação da infraestrutura.
-* **[Docker](https://www.docker.com/)** — Para criação e gerenciamento dos contêineres.
-* **[Linguagem/Serviço do Projeto]** — *(Ex: Nginx / Python / Node.js)*.
+* **[Terraform](https://www.terraform.io/)** — Automação e provisionamento de infraestrutura como código (IaC).
+* **[Provider Docker (`kreuzwerker/docker`)](https://registry.terraform.io/providers/kreuzwerker/docker/latest/docs)** — Provider oficial/comunitário para interagir com a API do Docker Engine através do HCL.
+* **[Docker](https://www.docker.com/)** — Engine de conteinerização para execução dos serviços.
 
 ---
 
