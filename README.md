@@ -1,6 +1,6 @@
 # 🛠️ Estudo de Infraestrutura: Terraform + Docker
 
-Projeto desenvolvido para a disciplina de **[Nome da Disciplina]** com o objetivo de praticar conceitos de Infraestrutura como Código (IaC) e conteinerização.
+Projeto desenvolvido para a disciplina de **DevOps** com o objetivo de praticar conceitos de Infraestrutura como Código (IaC) e conteinerização.
 
 ---
 
