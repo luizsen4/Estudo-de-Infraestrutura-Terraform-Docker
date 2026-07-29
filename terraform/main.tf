@@ -11,7 +11,7 @@ provider "docker" {}
 
 
 resource "docker_image" "ubuntu" {
-    name= "ubuntu: 22.04"
+    name= "ubuntu:22.04"
 }
 
 resource "docker_container" "servidor" {
