@@ -1,0 +1,10 @@
+# Ignora a pasta de binários e downloads do Terraform
+.terraform/
+**/.terraform/
+
+# Ignora o arquivo de estado do Terraform (contém dados sensíveis)
+*.tfstate
+*.tfstate.*
+
+# MANTÉM o arquivo de lock no Git (importante!)
+!.terraform.lock.hcl
